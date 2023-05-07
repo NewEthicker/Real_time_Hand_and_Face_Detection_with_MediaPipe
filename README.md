@@ -1,5 +1,10 @@
 # Real_time_Hand_and_Face_Detection_with_MediaPipe
-https://user-images.githubusercontent.com/88562515/236703532-e42df48d-91d7-4411-b536-50d825dd86ce.mp4
+
+
+https://user-images.githubusercontent.com/88562515/236703552-d4e317f3-e1da-49e7-bcd8-5dcaaa13bde0.mp4
+
+
+
 This repository contains code for real-time hand and face detection using the MediaPipe library. The code captures video from a specified URL and uses the MediaPipe library to detect and draw landmarks on the hand and face.
 
 # Installation
