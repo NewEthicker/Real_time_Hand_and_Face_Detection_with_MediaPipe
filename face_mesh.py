@@ -16,7 +16,7 @@ cv2.namedWindow("Image", cv2.WINDOW_NORMAL)
 cv2.resizeWindow("Image", screen_width, screen_height)
 
 # Video capture from URL
-url = "https://10.43.160.126:8080/video"
+url = "https://10.43.160.126:8080/video"   # change it from your ip of webcame, dont have app: https://play.google.com/store/apps/details?id=com.pas.webcam
 cap = cv2.VideoCapture(url)
 
 while True:
